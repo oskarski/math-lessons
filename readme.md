@@ -21,6 +21,7 @@ wielokrotności 12 to: 12 [24] 36
 NWW(8, 12) = 24
 ```
 
+- [Zadania 15.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSflpUZ0bAWjWSEOwHnBZEak23-1-r6qgCEA2NPfTR-Thn_0Aw/viewform?usp=sf_link)
 - [Zadania 14.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSc0KRe0zYiIMC_e3DFqI6PfRbJDwSU_syIjoJheAaHRpaghOA/viewform?usp=sf_link) [ [Rozwiązania](/solutions/14_11_2020.md) ]
 - [Zadania 13.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSf5WYedsMRB3dCGIWVDrsJ1cHdCOQOUuG1QnQs3bWHTq-fWHg/viewform?usp=sf_link) [ [Rozwiązania](/solutions/13_11_2020.md) ]
 - [Zadania 12.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSeFm27ydkezZmdyE632FIB86jZLLwqR5eae2rXhn20QTmZiaA/viewform?usp=sf_link) [ [Rozwiązania](/solutions/12_11_2020.md) ]
