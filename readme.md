@@ -1,6 +1,7 @@
 # Zadania:
 
 #### Ułamki zwykłe
+- [Zadania 23.11.2020 Star Wars](https://docs.google.com/forms/d/e/1FAIpQLScX7nfFrweBtVqLDUVcjuOBrs14wdl51pUearcaXJXtdWybxw/viewform?usp=sf_link)
 - [Zadania 21.11.2020 Avengers](https://docs.google.com/forms/d/e/1FAIpQLSetSjGH6ypDIRAIstl_hp5gr6Jf5h5mw76F981gY9IiBq6ipg/viewform?usp=sf_link)
 - [Zadania 19.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSfFZ_BdfpMscJeBHpR8lCwBNHpQTLkKYqxzrwmHx6Y8wIl0ow/viewform?usp=sf_link)
 
