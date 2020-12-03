@@ -1,7 +1,7 @@
 # Zadania:
 
 ```
-Janek nie dostałem rozwiązań do zadań z [02.12.2020](https://docs.google.com/forms/d/e/1FAIpQLSeUSOIwWa_Wgc93pJUnZTSIO-2ejHrN3QZvGXl1J-IJuhP_lg/viewform?usp=sf_link). Zrób je proszę dzisiaj. Jutro pokażą się kolejne zadania.
+Janek nie dostałem rozwiązań do zadań z 02.12.2020. Zrób je proszę dzisiaj, jutro pokażą się kolejne zadania.
 ```
 
 #### Ułamki zwykłe
