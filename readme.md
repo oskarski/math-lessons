@@ -1,5 +1,9 @@
 # Zadania:
 
+```
+Janek nie dostałem rozwiązań do zadań z [02.12.2020](https://docs.google.com/forms/d/e/1FAIpQLSeUSOIwWa_Wgc93pJUnZTSIO-2ejHrN3QZvGXl1J-IJuhP_lg/viewform?usp=sf_link). Zrób je proszę dzisiaj. Jutro pokażą się kolejne zadania.
+```
+
 #### Ułamki zwykłe
 - [Zadania 02.12.2020](https://docs.google.com/forms/d/e/1FAIpQLSeUSOIwWa_Wgc93pJUnZTSIO-2ejHrN3QZvGXl1J-IJuhP_lg/viewform?usp=sf_link)
 - [Zadania 27.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSdFCBThtlx2YiPDFW5rWInKMDYI9dLimC7IfZMnXDPUl0yK9Q/viewform?usp=sf_link)
