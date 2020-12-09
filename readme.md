@@ -1,7 +1,7 @@
 # Zadania:
 
 ```
-Janek nie dostałem rozwiązań do zadań z 02.12.2020. Zrób je proszę dzisiaj, jutro pokażą się kolejne zadania.
+Janek, w piątek dodam kolejne zadania. W międzyczasie zrób prosze zadania z 4.12.2020 :)
 ```
 
 #### Ułamki zwykłe
