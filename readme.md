@@ -5,6 +5,7 @@ Janek, w piątek dodam kolejne zadania. W międzyczasie zrób prosze zadania z 4
 ```
 
 #### Ułamki zwykłe
+- [Zadania 11.12.2020](https://docs.google.com/forms/d/e/1FAIpQLSfB0JulPv8HV0Eo8yBA55DwxxLU1rQ86HUIqkRuIqOilwFdqg/viewform?usp=sf_link)
 - [Zadania 04.12.2020](https://docs.google.com/forms/d/e/1FAIpQLSckcf6secL28Eb84QQsWIEAaRpoaWXKIBaLLZP6qvunhzgDkg/viewform?usp=sf_link)
 - [Zadania 02.12.2020](https://docs.google.com/forms/d/e/1FAIpQLSeUSOIwWa_Wgc93pJUnZTSIO-2ejHrN3QZvGXl1J-IJuhP_lg/viewform?usp=sf_link)
 - [Zadania 27.11.2020](https://docs.google.com/forms/d/e/1FAIpQLSdFCBThtlx2YiPDFW5rWInKMDYI9dLimC7IfZMnXDPUl0yK9Q/viewform?usp=sf_link)
